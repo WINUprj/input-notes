@@ -1,5 +1,5 @@
 # input-notes
-Notes for outputting the contents that I studied, influenced by [this repo](https://github.com/syuntoku14/Shumi-Note).
+Notes for the contents I studied. The format is heavily influenced by [this repo](https://github.com/syuntoku14/Shumi-Note).
 
 
 ## Direction
