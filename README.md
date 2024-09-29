@@ -12,3 +12,5 @@ Notes for outputting the contents that I studied, influenced by [this repo](http
 
 ## List of notebooks (sorted by the dates added)
 1. (2024/9/8) Natural Gradient: [notebooks/OPT_natural_gradient.ipynb](notebooks/OPT_natural_gradient.ipynb)
+2. (2024/9/29) [WIP] KL Divergence: [notebooks/STAT_KL_divergence.ipynb](notebooks/STAT_KL_divergence.ipynb)
+
